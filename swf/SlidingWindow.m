@@ -39,7 +39,7 @@ lineLambda = 0.25;
 JcostThresh = 0.1e-2;
 useMonoCamera = true; %If true, only left camera will be used
 
-kappa = 10; %Sliding window size
+kappa = 3; %Sliding window size
 maxOptIter = 5;
 
 kStart = 1;
